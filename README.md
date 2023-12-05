@@ -1,6 +1,6 @@
 # projek_multimedia
 
-A new Flutter project.
+Project UAS matakuliah 
 
 ## Getting Started
 
